@@ -108,15 +108,22 @@
     },
     {
       "name": "Hypha",
-      "logo_sm": "https://hypha.earth/wp-content/uploads/2022/10/hypha.png",
-      "logo_lg": "https://hypha.earth/wp-content/uploads/2022/10/hypha-lg.png",
+      "logo_sm": "https://assets.hypha.earth/tokens/hypha-token.png",
+      "logo_lg": "https://assets.hypha.earth/tokens/hypha-token-lg.png",
       "symbol": "HYPHA",
       "account": "hypha.hypha"
+    },    
+    {
+      "name": "Hypha USD Treasury Token",
+      "logo_sm": "https://assets.hypha.earth/tokens/husd.png",
+      "logo_lg": "https://assets.hypha.earth/tokens/husd-lg.png",
+      "symbol": "HUSD",
+      "account": "husd.hypha"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
